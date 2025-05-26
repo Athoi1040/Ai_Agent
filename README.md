@@ -13,6 +13,8 @@ Create a .env file in the root directory with
 #ollama run llama3
 
 #run python app/main.py
+
+
 #question type:
 What documents are required for a trade license?
 What is the budget for disaster management?
