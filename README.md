@@ -7,4 +7,3 @@ A conversational AI agent for answering natural language queries from government
 
 ## Setup
 
-## run main.py
