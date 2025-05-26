@@ -7,8 +7,4 @@ A conversational AI agent for answering natural language queries from government
 
 ## Setup
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/policy-navigator.git
-cd policy-navigator
+## run main.py
