@@ -1,0 +1,13 @@
+
+
+langchain
+openai
+chromadb
+sentence-transformers
+python-dotenv
+pdfplumber
+PyYAML
+streamlit
+faiss-cpu
+unstractured
+
